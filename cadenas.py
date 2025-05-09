@@ -57,4 +57,7 @@ print("{} + {} = {}".format(2,3,2+3))
 print("{} + {} = {}".format("hola","mundo","hola mundo"))
 print("{:.3f} + {:.4f} = {}".format(2,3,2+3))
 print("{1} + {0} = {2}".format(2,3,2+3))
+print("{2} + {0} = {1}".format("Hola","mundo","Hola mundo"))
+print("{:d} = {:b} = {:o} = {:x}".format(15, 15, 15, 15))
+
 
