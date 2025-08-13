@@ -1,5 +1,5 @@
 
-nombre = "Fausto Emmanuel"
+nombre = "Fausto Emmanuel Quevedo Torres"
 edad = 23
 estatura =  1.62
 
